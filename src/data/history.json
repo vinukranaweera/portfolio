@@ -1,0 +1,36 @@
+[
+    {
+      "role": "Google Data Analytics Certificate Program",
+      "organization": "Coursera",
+      "startDate": "Jun, 2023",
+      "endDate": "Jan, 2024",
+      "experiences": [
+        "Acquired key analytical skills, including data cleaning, analysis, and visualization, using tools such as spreadsheets, BigQuery, R programming, and Tableau", 
+        "Developed proficiency in cleaning and organizing data, conducting analysis with spreadsheets, SQL, and R programming, and presenting data findings through dashboards within the context of a practical case study"
+      ],
+      "imageSrc": "history/google.png"
+    },
+    {
+      "role": "Machine Learning Capstone Project",
+      "organization": "CCNY",
+      "startDate": "Aug, 2023",
+      "endDate": "Dec, 2023",
+      "experiences": [
+        "Applied MongoDB for database management",
+        "Integrated machine learning models and recommendation system into an intuitive web application using React and Flask" 
+        ],
+      "imageSrc": "history/ccny.png"
+    },
+    {
+      "role": "Research Intern",
+      "organization": "Bronx Community College Geospatial Center of the CUNY CREST Institute",
+      "startDate": "Jul, 2021",
+      "endDate": "Present",
+      "experiences": [
+        "Preprocessed large-scale geospatial imagery data in Google Earth Engine",
+        "Created GeoTIFF image files for easy data visualization and detect changes in vegetation using normalized indexes for chosen cities",
+        "Optimized the format of raster and vector data to reduce the processing time"
+      ],
+      "imageSrc": "history/bgccci.png"
+    }
+  ]

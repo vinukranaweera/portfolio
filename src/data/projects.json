@@ -1,0 +1,34 @@
+[
+  {
+    "title": "Pokémon Classification & Team Recommendation System",
+    "imageSrc": "projects/pokemon.png",
+    "description": "This web application classifies Pokémon accurately using a sophisticated model and offers personalized recommendations for battling user-selected Pokémon teams.",
+    "skills": [
+      "React",
+      "Flask",
+      "Python",
+      "MongoDB",
+      "HTML",
+      "CSS",
+      "Javascript"
+    ],
+    "demo": "https://pokemon-recommender.vercel.app",
+    "source": "https://github.com/vinukranaweera/pokemon-recommender"
+  },
+  {
+    "title": "Cyclistic Bike Share Case Study",
+    "imageSrc": "projects/cyclistics.png",
+    "description": "This capstone project analyzed the usage patterns of annual members and casual bike riders to optimize marketing strategies for memberships. The analysis involved examining data sources, cleaning and manipulating data, and presenting key findings through visualizations.",
+    "skills": ["R", "BigQuery", "Tableau", "Excel"],
+    "demo": "https://www.kaggle.com/vinukranaweera",
+    "source": "https://www.kaggle.com/vinukranaweera"
+  },
+  {
+    "title": "High School Research and Statistics Projects",
+    "imageSrc": "projects/hsproject.png",
+    "description": "This portfolio contains work in statistics, featuring projects of research and analysis. It includes submissions to the American Statistical Association High School Project Competition and a research project presented at the CUNY Summer STEM Research Symposium.",
+    "skills": ["Python", "Excel", "Linux"],
+    "demo": "https://drive.google.com/drive/folders/1KyoDpGZBz6m7n7kkWUNJxol1SkpiwNnl?usp=drive_link",
+    "source": "https://drive.google.com/drive/folders/1KyoDpGZBz6m7n7kkWUNJxol1SkpiwNnl?usp=drive_link"
+  }
+]

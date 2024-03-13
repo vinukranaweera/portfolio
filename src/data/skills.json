@@ -1,0 +1,50 @@
+[
+    {
+      "title": "Python",
+      "imageSrc": "skills/python.png"
+    },
+    {
+      "title": "React",
+      "imageSrc": "skills/react.png"
+    },
+    {
+      "title": "HTML",
+      "imageSrc": "skills/html.png"
+    },
+    {
+      "title": "CSS",
+      "imageSrc": "skills/css.png"
+    },
+    {
+      "title": "Flask",
+      "imageSrc": "skills/flask.png"
+    },
+    {
+      "title": "MongoDB",
+      "imageSrc": "skills/mongodb.png"
+    },
+    {
+      "title": "R",
+      "imageSrc": "skills/R.png"
+    },
+    {
+      "title": "C++",
+      "imageSrc": "skills/c_plus.png"
+    },
+    {
+      "title": "Git",
+      "imageSrc": "skills/git.png"
+    },
+    {
+      "title": "Linux",
+      "imageSrc": "skills/linux.png"
+    },
+    {
+      "title": "Tableau",
+      "imageSrc": "skills/tableau.png"
+    },
+    {
+      "title": "Figma",
+      "imageSrc": "skills/figma.png"
+    }
+  ]
