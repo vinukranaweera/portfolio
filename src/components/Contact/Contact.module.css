@@ -48,11 +48,18 @@
 }
 
 .link a:hover {
-    border-bottom: 4px solid #00d1d1e4;
+    /*
+    border-bottom: 4px solid var(--color-hover-first);
     padding-bottom: 2px;
+    */
+    color: var(--color-hover-first);
 }
 
-@media screen and (max-width: 830px) {
+.link img:hover {
+    filter: brightness(0) saturate(100%) invert(65%) sepia(73%) saturate(1488%) hue-rotate(129deg) brightness(93%) contrast(100%);
+}
+
+@media screen and (max-width: 930px) {
    .container {
         flex-direction: column;
         gap: 23px;
@@ -67,4 +74,16 @@
    .links {
         align-items: center;
    }
+
+   .text h2 {
+        font-size: 70px;
+    }
+
+    .text p {
+        font-size: 30px;
+    }
+
+   .link a {
+        font-size: 20px;
+    }
 }

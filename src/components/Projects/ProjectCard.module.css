@@ -70,3 +70,21 @@
     box-shadow: 0 0 10px var(--color-hover-second), 0 0 20px var(--color-hover-second), 0 0 30px var(--color-hover-second);
     transition: all 0.6s ease;
 }
+
+@media screen and (max-width: 930px) {
+    .title {
+        font-size: 20px;
+    }
+    
+    .description {
+        font-size: 18px;
+    }
+
+    .skill {
+        font-size: 20px;
+    }
+
+    .link {
+        font-size: 25px;
+    }
+}

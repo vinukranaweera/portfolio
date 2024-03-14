@@ -15,7 +15,7 @@ export const About = () => {
           alt="Image of Vinuk"
           className={styles.aboutImage}/>
         <ul className={styles.aboutItems}
-            data-aos="slide-left"
+            data-aos="fade-left"
             data-aos-easing="linear">
             <li className={styles.aboutItem}>
                 <img src={getImageUrl('about/cursorIcon.png')} alt='Cursor icon'/>

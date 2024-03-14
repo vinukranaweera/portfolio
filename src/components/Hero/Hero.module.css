@@ -176,12 +176,20 @@
 	to { transform: scaleX(1); }
 }
 
-@media screen and (max-width: 830px) {
+@media screen and (max-width: 930px) {
   .container {
     flex-direction: column-reverse;
   }
 
   .content {
     align-items: center;
+  }
+
+  .title {
+    font-size: 50px;
+  }
+
+  .description {
+    font-size: 20px;
   }
 }
