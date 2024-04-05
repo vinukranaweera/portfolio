@@ -10,12 +10,12 @@ export const Hero = () => {
         <div className={styles.content}>
             <h1 className={styles.title}>
             <Typewriter
-            words={["Hello!", "I'm Vinuk!", "Welcome To My Portfolio!"]}
+            words={["Hello, World!", "I'm Vinuk!", "Welcome!"]}
             loop={false}
-            cursor={true}
+            cursor
             cursorBlinking={true}
             cursorColor='white'
-            cursorStyle='_'
+            cursorStyle='I'
             typeSpeed={100}
             deleteSpeed={100}
             delaySpeed={1500}
