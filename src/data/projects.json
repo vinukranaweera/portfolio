@@ -20,7 +20,7 @@
     "imageSrc": "projects/cyclistics.png",
     "description": "This capstone project analyzed the usage patterns of annual members and casual bike riders to optimize marketing strategies for memberships. The analysis involved examining data sources, cleaning and manipulating data, and presenting key findings through visualizations.",
     "skills": ["R", "BigQuery", "Tableau", "Excel"],
-    "demo": "https://www.kaggle.com/vinukranaweera",
+    "demo": "https://www.kaggle.com/code/vinukranaweera/google-data-analytics-capstone-project-track-a",
     "source": "https://www.kaggle.com/vinukranaweera"
   },
   {
