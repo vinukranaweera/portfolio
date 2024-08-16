@@ -24,7 +24,7 @@ export const Hero = () => {
             <motion.p className={styles.description}
             initial={{opacity: 0, scale: 0}}
             whileInView={{opacity: 1, scale: 1}}
-            transition={{duration: 0.9, delay: 0.8}}
+            transition={{duration: 1.2, delay: 0.8}}
             viewport={{ once: true }}>
 Greetings! My name is Vinuk Ranaweera and I am a recent graduate from the City College of New York with a Bachelor of Science (BS) degree in computer science. 
 My areas of interest include data science, data analytics, web development, software design, and game design. 

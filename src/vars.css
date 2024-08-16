@@ -1,6 +1,6 @@
 :root {
-    /* Colors 
-
+    /* Colors */
+/*
     --color-text: #fff;
     --color-primary: #543d75;
     --color-secondary: #271b3c; 
@@ -14,20 +14,22 @@
 
     --color-text: #fff;
     --color-text-second: #ffffffaf;
-    --color-primary: #004d4d;
-    --color-secondary: #002626;
     --color-dark: #001a1a;
-    --color-bg: #004d4d;
-    --color-bg-second: #543d75;
+    /*
     --color-hover-first: #00d1d1e4;
     --color-hover-second: #00d1d1e4;
-    /*
-    --color-text: #fff;
-    --color-primary: #543d75;
-    --color-secondary: #271b3c; 
-    --color-dark: #130d1e;
-    --color-bg: #543d75;
- */
+    
+    --color-primary: #004d4d;
+    --color-secondary: #002626;
+    --color-bg: #004d4d;
+    --color-bg-second: #543d75;
+    */
+    --color-hover-first: #70f3ff;
+    --color-hover-second: #70f3ff;
+    --color-primary: #0077b6;  
+    --color-secondary: #0D1B2A; 
+    --color-bg: #e76f51;        
+    --color-bg-second: #e76f51;
 
     /* Fonts */
     --font-roboto: "Roboto";
